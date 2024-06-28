@@ -1,0 +1,5 @@
+applications:
+- name: nodejs_aws
+  random-route: true
+  path: app
+  memory: 128M
